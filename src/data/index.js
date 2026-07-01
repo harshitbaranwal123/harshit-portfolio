@@ -143,5 +143,5 @@ export const contact = {
   email: "harshitbaranwal116@gmail.com",
   linkedin: "https://www.linkedin.com/in/harshit-kumar-baranwal-8087b9329/",
   github: "https://github.com/harshitbaranwal123",
-  whatsapp: "https://wa.me/8409805043",
+  whatsapp: "https://wa.me/918409805043",
 };

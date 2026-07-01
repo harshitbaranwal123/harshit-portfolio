@@ -7,7 +7,7 @@ const contactLinks = [
   { icon: FiMail, label: 'Email', value: 'harshitbaranwal116@gmail.com', href: 'mailto:harshitbaranwal116@gmail.com', color: '#C9A84C' },
   { icon: FiLinkedin, label: 'LinkedIn', value: 'linkedin.com/in/harshit-kumar-baranwal-8087b9329', href: 'https://www.linkedin.com/in/harshit-kumar-baranwal-8087b9329/', color: '#0A66C2' },
   { icon: FiGithub, label: 'GitHub', value: 'github.com/harshitbaranwal123', href: 'https://github.com/harshitbaranwal123', color: '#7A9E7E' },
-  { icon: SiWhatsapp, label: 'WhatsApp', value: 'Quick Chat', href: 'https://wa.me/8409805043', color: '#25D366' },
+  { icon: SiWhatsapp, label: 'WhatsApp', value: 'Quick Chat', href: 'https://wa.me/918409805043', color: '#25D366' },
 ];
 
 export default function Contact() {
